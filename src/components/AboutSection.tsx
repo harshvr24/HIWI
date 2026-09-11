@@ -46,11 +46,10 @@ const AboutSection = () => {
 
           {/* gap, not space-y: the global `p { margin: 0 !important }` defeats margin-based spacing */}
           <div className="md:col-span-7 flex flex-col gap-6 text-lg text-zinc-600 leading-relaxed about-reveal">
-            <p>
-              HIWI is a digital studio founded by Harsh — the name comes from a simple idea:{" "}
-              <span className="text-obsidian font-medium">Harsh is wired in.</span> Wired into
-              technology, into design, into how businesses actually grow online.
-            </p>
+           <p>
+              HIWI is a digital studio founded by Harsh. We’re wired into
+              technology, into design, and into how businesses actually grow online.
+          </p>
             <p>
               We build websites with a purpose. Not because a business “needs a website”,
               but because a good one becomes an asset — it says who you are, builds credibility,
