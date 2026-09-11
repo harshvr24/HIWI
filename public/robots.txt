@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# TODO(Harsh): replace with the real HIWI domain before launch
+Sitemap: https://hiwi.example.com/sitemap.xml
